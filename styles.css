@@ -40,11 +40,15 @@ body {
   padding-left: 40px;
 }
 .uno {
-  color: #999aa3;
+  color: #ff7300;
 }
 a{
     color: inherit; 
     text-decoration: inherit;
+}
+
+iframe{
+  display: flex;
 }
 
 #descripcion {
@@ -52,8 +56,8 @@ a{
   justify-content: center;
   margin-left: 150px;
   margin-right: 150px;
-  margin-top: 50px;
-  margin-bottom: 50px;
+  margin-top: 25px;
+  margin-bottom: 25px;
   line-height: 35px;
 }
 
@@ -87,6 +91,6 @@ h4 {
 }
 p {
   font-family: "lucida console";
-  font-size: 30px;
+  font-size: 28px;
   color: #15ff00;
 }
