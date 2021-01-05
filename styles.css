@@ -130,29 +130,29 @@ html {
   }
 
   h1 {
-    font-family: "lucida console";
+    font-family: "monospace", "lucida console";
     font-weight: 100;
     font-size: 20px;
   }
   h2 {
-    font-family: "lucida console";
+    font-family: "monospace", "lucida console";
     font-weight: 100;
   }
   h3 {
-    font-family: "lucida console";
+    font-family: "monospace", "lucida console";
     font-size: 20px;
     color: #ff00d9;
     font-weight: 100;
     text-align: center;
   }
   h4 {
-    font-family: "lucida console";
+    font-family:"monospace", "lucida console";
     font-size: 14px;
     color: #000dff;
     font-weight: 100;
   }
   p {
-    font-family: "lucida console";
+    font-family: "monospace", "lucida console";
     font-size: 15px;
     color: #15ff00;
   }
